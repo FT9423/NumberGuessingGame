@@ -13,7 +13,7 @@ public class numberGuessingGame {
         int i, guess;
 
         System.out.println("A random number between 1 to 100 has been chosen.");
-        System.out.println("Guess the mystery number within 10 attempts to win!");
+        System.out.println("Guess the mystery number within 5 attempts to win!");
 
         for (i = 0; i < X; i++) {
             System.out.println("Enter your guess:");
